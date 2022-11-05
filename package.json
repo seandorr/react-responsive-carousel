@@ -1,5 +1,5 @@
 {
-  "name": "react-responsive-carousel",
+  "name": "@sean_dorr/react-responsive-carousel-2",
   "version": "0.0.1",
   "description": "A new take on a responsive carousel",
   "main": "./lib/index.js",
